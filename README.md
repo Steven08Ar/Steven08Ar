@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>Santiago Arias</h1>
-<h4>Systems Engineer · Backend Developer · IoT & AI Builder · Cloud Infrastructure</h4>
+<img src="./header.svg" width="860" alt="Santiago Arias"/>
 
 <br/>
 
