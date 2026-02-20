@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/steven08santi%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:steven08santi@gmail.com)
-[![GitHub](https://img.shields.io/badge/Steven08Ar-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Steven08Ar)
-[![Location](https://img.shields.io/badge/Bucaramanga%2C_Colombia-0d1117?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/steven08santi%40gmail.com-0d1f0f?style=flat-square&logo=gmail&logoColor=39d353)](mailto:steven08santi@gmail.com)
+[![GitHub](https://img.shields.io/badge/Steven08Ar-0d1f0f?style=flat-square&logo=github&logoColor=39d353)](https://github.com/Steven08Ar)
+[![Location](https://img.shields.io/badge/Bucaramanga%2C_Colombia-0d1f0f?style=flat-square&logo=googlemaps&logoColor=39d353)](#)
 
 </div>
 
@@ -57,11 +57,11 @@ If you have an idea or a problem that needs a technical solution, let's talk.
 <p>
   <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white" height="47"/>
+  <img src="https://img.shields.io/badge/MQTT-0d1f0f?style=flat-square&logo=eclipse-mosquitto&logoColor=39d353" height="47"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logoColor=white" height="47"/>
+  <img src="https://img.shields.io/badge/Zigbee-0d1f0f?style=flat-square&logoColor=39d353" height="47"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Z--Wave-00ADEF?style=flat-square&logoColor=white" height="47"/>
+  <img src="https://img.shields.io/badge/Z--Wave-0d1f0f?style=flat-square&logoColor=39d353" height="47"/>
 </p>
 
 **Design & Tooling**
@@ -82,11 +82,11 @@ If you have an idea or a problem that needs a technical solution, let's talk.
 
 ---
 
-## Portfolio & Web
+## Portfolio
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0d1117?style=for-the-badge&logo=briefcase&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0d1f0f?style=for-the-badge&logo=briefcase&logoColor=39d353)](https://YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -96,17 +96,17 @@ If you have an idea or a problem that needs a technical solution, let's talk.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Steven08Ar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Steven08Ar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=39d353&title_color=39d353&text_color=ffffff&number_format=long" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven08Ar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven08Ar&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=39d353&text_color=ffffff" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven08Ar&theme=github-dark-blue&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven08Ar&theme=github-dark-blue&hide_border=true&ring=39d353&fire=56d364&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7ee787&sideLabels=7ee787&dates=3fb950" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Steven08Ar&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Steven08Ar&theme=github-compact&hide_border=true&area=true&color=39d353&line=56d364&point=aff5b4" width="100%"/>
 
 <br/><br/>
 
