@@ -1,0 +1,74 @@
+<svg width="860" height="140" viewBox="0 0 860 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1f0f"/>
+      <stop offset="50%"  stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a1a0d"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#39d353"/>
+      <stop offset="40%"  stop-color="#7ee787"/>
+      <stop offset="70%"  stop-color="#aff5b4"/>
+      <stop offset="100%" stop-color="#56d364"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .name {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 58px;
+        font-weight: 700;
+        letter-spacing: 6px;
+        fill: url(#nameGrad);
+        filter: url(#glow);
+        opacity: 0;
+        animation: fadeUp 0.9s cubic-bezier(0.22,1,0.36,1) forwards 0.2s;
+      }
+      .sub {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 13px;
+        font-weight: 400;
+        letter-spacing: 3px;
+        fill: #3fb950;
+        opacity: 0;
+        animation: fadeUp 0.8s ease forwards 0.9s;
+      }
+      .cursor {
+        fill: #39d353;
+        opacity: 0;
+        animation: fadeUp 0s forwards 1.1s, blink 1s step-end infinite 1.1s;
+        filter: url(#glow);
+      }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="860" height="140" fill="url(#bgGrad)" rx="10"/>
+
+  <!-- subtle green top border line -->
+  <rect width="860" height="2" fill="#39d353" rx="1" opacity="0.6"/>
+
+  <!-- Name centered -->
+  <text x="430" y="82" text-anchor="middle" class="name">Santiago Arias</text>
+
+  <!-- Blinking cursor after name — positioned right of center text end -->
+  <rect x="690" y="38" width="3" height="52" class="cursor"/>
+
+  <!-- Subtitle centered -->
+  <text x="430" y="115" text-anchor="middle" class="sub">Systems Engineer · Backend · IoT &amp; AI · Cloud</text>
+
+  <!-- subtle green bottom border line -->
+  <rect y="138" width="860" height="2" fill="#39d353" rx="1" opacity="0.3"/>
+</svg>
